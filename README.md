@@ -1,6 +1,8 @@
 - 👋 Hi, I’m rapheal olawuyi
-- 👀 I’m a passionate Data Analyst with a keen eyes for detail and a love for telling stories through data.
-- 💞️ I’m looking to collaborate with pro on Data Analytics project
+- 👀 I’m a passionate Data Analyst with a keen eyes for detail, love telling stories through data and turning raw numbers into meaningful insights
+- 💼 Previous roles: Data Analyst, Credit Risk Analyst, Sales Ops Manager
+- 📊 Tools: Power BI, Excel, SQL,Python
+- 🤝 Open to remote collaboration on data analytics projects, and actively seeking freelance, part-time or  full-time opportunities in the data space
 - 📫 How to reach me rolawuyi1@gmail.com
 
 💼 About Me
